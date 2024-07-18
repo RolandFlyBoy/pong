@@ -1,0 +1,46 @@
+{
+  "GAME_SETTINGS": {
+    "PADDLE_EROSION": false,
+    "OBSTACLE": true,
+    "WINNING_POINTS": 3,
+    "BALL_SPEED": 50,
+    "COMPUTER_SPEED": 75,
+    "COMPUTER_RANDOMNESS": 25,
+    "BALL_SPEED_TURNS": 5,
+    "BALL_INCREMENT": 20,
+    "MUSIC_ENABLED": false
+  },
+  "GAME_STATS": {
+    "LONGEST_RALLY": 12
+  },
+  "LANGUAGE_COPY": {
+    "MENU_TITLE": "Pong",
+    "START_GAME": "Press any key to start",
+    "OPTIONS_MENU": "Press 'O' for options",
+    "QUIT_GAME": "Press 'Q' to quit",
+    "RESTART_GAME": "Press 'R' to restart",
+    "SERVE_BALL": "Press any key to serve",
+    "PLAYER_WIN": "You win!",
+    "COMPUTER_WIN": "I win! Play again?",
+    "PLAYER_SCORE": "Player",
+    "COMPUTER_SCORE": "Computer",
+    "BALL_SPEED": "Ball speed",
+    "STRIKES": "Strikes",
+    "PADDLE_EROSION_SETTING": "Paddle erosion",
+    "OBSTACLE_SETTING": "Obstacle",
+    "WINNING_POINTS_SETTING": "Winning points",
+    "BALL_SPEED_SETTING": "Ball speed",
+    "COMPUTER_SPEED_SETTING": "Computer speed",
+    "COMPUTER_RANDOMNESS_SETTING": "Computer randomness",
+    "BALL_SPEED_TURNS_SETTING": "Ball speed turns",
+    "BALL_INCREMENT_SETTING": "Ball increment",
+    "MUSIC_ENABLED_SETTING": "Music",
+    "LONGEST_RALLY_CONGRATS": "Congratulations! A new longest rally record",
+    "OPTIONS_INSTRUCTIONS": [
+      "Use up/down arrows to navigate",
+      "Use left/right arrows to change values",
+      "Press Enter to save and exit",
+      "Press Esc to exit without saving"
+    ]
+  }
+}
